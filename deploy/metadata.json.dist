@@ -1,0 +1,19 @@
+{
+    "name": "Name of DApp",
+    "description": "DApp Description",
+    "version": "1.0.0",
+    "license": {
+        "name": "MIT"
+    },
+    "authors": [
+        "your name"
+    ],
+    "homepage": "repo",
+    "source": {
+        "tools": "cameligo",
+        "location": "repo/src"
+    },
+    "interfaces": [
+        "TZIP-016"
+    ]
+}
