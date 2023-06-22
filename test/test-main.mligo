@@ -1,4 +1,4 @@
-#include "../src/taco.mligo"
+#include "../src/main.mligo"
 let assert_string_failure (res : test_exec_result) (expected : string) =
   let expected = Test.eval expected in
   match res with

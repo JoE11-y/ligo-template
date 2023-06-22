@@ -1,8 +1,8 @@
 {
-  "name": "DApp-cameligo",
+  "name": "ligo-template",
   "version": "1.0.0",
   "license": "MIT",
-  "description": "DApp contract on Tezos written in Ligolang.",
+  "description": "Contract on Tezos written in Ligolang.",
   "dependencies": {
     "@taquito/signer": "^15.0.0",
     "@taquito/taquito": "^15.0.0",

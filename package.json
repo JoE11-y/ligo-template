@@ -1,20 +1,24 @@
 {
-  "name": "@ligo/dao",
+  "name": "ligo-template",
   "version": "1.0.0",
   "type": "contract",
   "license": "MIT",
   "storage_fn": "main",
   "storage_arg": "a b",
-  "description":
-    "A modular example DAO contract on Tezos written in Ligolang.",
+  "description": "A modular contract on Tezos written in Ligolang.",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:ligolang/dao-cameligo.git"
+    "url": "git+ssh://git@github.com/JoE11-y/ligo-template.git"
   },
-  "author": "ligoLANG <https://ligolang.org/>",
+  "author": "JoE11-y <https://github.com/JoE11-y>",
   "main": "src/main.mligo",
-  "dependencies": { "@ligo/bigarray": "^1.0.0", "@ligo/fa": "^1.0.1" },
-  "bugs": { "url": "https://github.com/ligolang/dao-cameligo/issues" },
-  "homepage": "https://github.com/ligolang/dao-cameligo#readme",
-  "keywords": [ "tezos", "ligo", "blockchain" ]
+  "bugs": {
+    "url": "https://github.com/JoE11-y/ligo-template/issues"
+  },
+  "homepage": "https://github.com/JoE11-y/ligo-template#readme",
+  "keywords": [
+    "tezos",
+    "ligo",
+    "blockchain"
+  ]
 }
